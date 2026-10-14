@@ -1,0 +1,38 @@
+{
+  "itemConfig": {
+    "SmartPa": {},
+    "AccelerateCali": {},
+    "Accelerate2Cali": {},
+    "GyroscopeCali": {},
+    "Gyroscope2Cali": {},
+    "CameraOisCali": {},
+    "CameraOis2Cali": {},
+    "Hall":{},
+    "HolsterHall":{},
+    "LightSensorCali": {},
+    "LightSensor2Cali": {},
+    "ProximityCali": {},
+    "Color": {},
+    "HingeCali": {},
+    "HingeHover": {},
+    "ColorEx": {},
+    "LightSensorSubCali": {},
+    "LightSensorSub2Cali": {},
+    "Nfc4A": {
+      "feature": "CONNECT_NFC_BOARD_SUPPORT"
+    },
+    "NfcMifare": {
+      "feature": "CONNECT_NFC_BOARD_SUPPORT"
+    },
+    "FrontDummyCamera": {},
+    "BackDummyCamera": {},
+    "BackDummyCamera2": {},
+    "CameraDarkCorner": {},
+    "SarCali": {},
+    "ShoulderKeyCali": {},
+    "FingerprintOpticalCali": {},
+    "CameraOtpCheck": {},
+    "CameraOtp2Check": {},
+    "CameraOtp3Check": {}
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "itemConfig": {
+    "LightSensorBackCali": {},
+    "Nfc4A": {
+      "feature": "CONNECT_NFC_BATTERY_COVER_SUPPORT"
+    },
+    "NfcMifare": {
+      "feature": "CONNECT_NFC_BATTERY_COVER_SUPPORT"
+    },
+    "CameraDarkCornerEx": {},
+    "Proximity2Cali": {},
+    "Flicker": {},
+    "BackFlashlightCali": {},
+    "FrontFlashlightCali": {},
+    "PulseOximeter": {},
+    "DualCamera": {},
+    "CameraSat": {}
+  }
+}
